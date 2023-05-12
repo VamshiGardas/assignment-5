@@ -1,0 +1,62 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2019
+    },
+    {
+      "id": 3,
+      "make": "Chevrolet",
+      "model": "camero",
+      "year": 2014
+    },
+    {
+      "id": 4,
+      "make": "Rangerover",
+      "model": "defender",
+      "year": 2017
+    }
+  ],
+  "parts": [
+    {
+      "car": "toyota-Camry",
+      "id": 1,
+      "Cubiccapacity": 2000,
+      "transmission": "manual",
+      "name": "Engine",
+      "price": 42000
+    },
+    {
+      "car": "Honda-civic",
+      "id": 2,
+      "Cubiccapacity": 2200,
+      "transmission": "automatic",
+      "name": "Engine",
+      "price": 55000
+    },
+    {
+      "car": "chevrolet-camero",
+      "id": 3,
+      "Cubiccapacity": 3500,
+      "transmission": "semi-automatic",
+      "name": "Engine",
+      "price": 60000
+    },
+    {
+      "car": "Rangerover-Defender",
+      "id": 4,
+      "Cubiccapacity": 4500,
+      "transmission": "automatic",
+      "name": "Transmission",
+      "price": 95000
+    }
+  ]
+}
