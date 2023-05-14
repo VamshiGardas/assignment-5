@@ -1,0 +1,5 @@
+To run the project 
+follow the steps
+1) copy the my-react-app floder 
+2)then copy paste both backend and frontend folders in the my-react-app folder
+3)in the front end create a "docker.frontend" file copy and paste this file seperatly outside of src folder in frontend "because of "
